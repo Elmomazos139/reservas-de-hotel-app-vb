@@ -1,0 +1,26 @@
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\bin\Debug\net10.0-windows\sistema de reservas de hotel.exe
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\bin\Debug\net10.0-windows\sistema de reservas de hotel.deps.json
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\bin\Debug\net10.0-windows\sistema de reservas de hotel.runtimeconfig.json
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\bin\Debug\net10.0-windows\sistema de reservas de hotel.dll
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\bin\Debug\net10.0-windows\sistema de reservas de hotel.pdb
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema_de_reservas_de_hotel.Form1.resources
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema_de_reservas_de_hotel.Resources.resources
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema de reservas de hotel.vbproj.GenerateResource.cache
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema de reservas de hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema de reservas de hotel.AssemblyInfoInputs.cache
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema de reservas de hotel.AssemblyInfo.vb
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema de reservas de hotel.vbproj.CoreCompileInputs.cache
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema de reservas de hotel.dll
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\refint\sistema de reservas de hotel.dll
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema de reservas de hotel.pdb
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema de reservas de hotel.genruntimeconfig.cache
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\ref\sistema de reservas de hotel.dll
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema_de_reservas_de_hotel.menu_principal.resources
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema_de_reservas_de_hotel.La_paz.resources
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema_de_reservas_de_hotel.SanSalvador.resources
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema_de_reservas_de_hotel.SanVicente.resources
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema_de_reservas_de_hotel.detalleslapaz.resources
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema_de_reservas_de_hotel.confirmar_Reserva.resources
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema_de_reservas_de_hotel.registro.resources
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema_de_reservas_de_hotel.Detalles_San_Salvador.resources
+C:\Users\REALICE\OneDrive\Desktop\sistema de reservas de hotel\sistema de reservas de hotel\obj\Debug\net10.0-windows\sistema_de_reservas_de_hotel.detalles_San_Vicente.resources
